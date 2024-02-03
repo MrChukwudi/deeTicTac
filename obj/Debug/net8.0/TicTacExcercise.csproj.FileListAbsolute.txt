@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\bin\Debug\net8.0\TicTacExcercise.exe
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\bin\Debug\net8.0\TicTacExcercise.deps.json
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\bin\Debug\net8.0\TicTacExcercise.runtimeconfig.json
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\bin\Debug\net8.0\TicTacExcercise.dll
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\bin\Debug\net8.0\TicTacExcercise.pdb
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\TicTacExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\TicTacExcercise.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\TicTacExcercise.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\TicTacExcercise.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\TicTacExcercise.dll
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\refint\TicTacExcercise.dll
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\TicTacExcercise.pdb
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\TicTacExcercise.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Projects\TicTacExcercise\obj\Debug\net8.0\ref\TicTacExcercise.dll
